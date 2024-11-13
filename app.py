@@ -1,6 +1,7 @@
 import streamlit as st
 
 # Title and introduction
+st.set_page_config(page_title="Mary and John's Story", page_icon="📖")
 st.title("Interactive Story - Mary and John")
 st.write("Choose an action for Mary and see John's response.")
 
