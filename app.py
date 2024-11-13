@@ -10,7 +10,7 @@ def show_response(action):
     responses = {
         "Cook Dinner": "Mary cooks dinner for John... John eats and soon falls asleep without thanking her.",
         "Take Off John's Clothes": "Mary takes off John's clothes, hoping he notices her effort... John doesn't reciprocate, he just enjoys it and soon falls asleep.",
-        "Apply Lipstick": "Mary applies lipstick to look good when he wakes up... When he wakes up, he doesn't notice, gets dressed, and leaves without saying 'good night'.",
+        "Apply Lipstick": "Mary applies lipstick to look good when John wakes up... When he wakes up, he doesn't notice, gets dressed, and leaves without saying 'good night'.",
         "End Story": "Regardless of the choices, Mary realizes that John will never change. She is trapped in a cycle of frustration and disillusionment."
     }
     st.write(responses[action])
