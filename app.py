@@ -31,4 +31,4 @@ if st.button("Apply Lipstick"):
     toggle_response("apply_lipstick", "Mary applies lipstick to look good when John wakes up... When he wakes up, he doesn't notice. He only gets dressed, and goes out the door without saying 'good night'.")
 
 if st.button("End Story"):
-    toggle_response("end_story", "Regardless of Mary's choices, John will never change.")
+    toggle_response("end_story", "Regardless of Mary's choices, John will never change, and in the end, both Mary and John die. ")
